@@ -30,3 +30,41 @@ C:\Users\Millionaire\source\repos\TRAutoTests\TRAutoTests\bin\Debug\nunit.engine
 C:\Users\Millionaire\source\repos\TRAutoTests\TRAutoTests\bin\Debug\nunit.engine.api.dll
 C:\Users\Millionaire\source\repos\TRAutoTests\TRAutoTests\bin\Debug\WebDriver.Support.dll
 C:\Users\Millionaire\source\repos\TRAutoTests\TRAutoTests\bin\Debug\WebDriver.Support.xml
+C:\Users\Millionaire\new repos\1\TRAutoTests\TRAutoTests\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\Millionaire\new repos\1\TRAutoTests\TRAutoTests\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\Millionaire\new repos\1\TRAutoTests\TRAutoTests\bin\Debug\nunit.engine.dll
+C:\Users\Millionaire\new repos\1\TRAutoTests\TRAutoTests\bin\Debug\nunit.engine.api.dll
+C:\Users\Millionaire\new repos\1\TRAutoTests\TRAutoTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Millionaire\new repos\1\TRAutoTests\TRAutoTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Millionaire\new repos\1\TRAutoTests\TRAutoTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Millionaire\new repos\1\TRAutoTests\TRAutoTests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Millionaire\new repos\1\TRAutoTests\TRAutoTests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Millionaire\new repos\1\TRAutoTests\TRAutoTests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Millionaire\new repos\1\TRAutoTests\TRAutoTests\bin\Debug\TRAutoTests.dll.config
+C:\Users\Millionaire\new repos\1\TRAutoTests\TRAutoTests\bin\Debug\TRAutoTests.dll
+C:\Users\Millionaire\new repos\1\TRAutoTests\TRAutoTests\bin\Debug\TRAutoTests.pdb
+C:\Users\Millionaire\new repos\1\TRAutoTests\TRAutoTests\bin\Debug\Allure.Commons.dll
+C:\Users\Millionaire\new repos\1\TRAutoTests\TRAutoTests\bin\Debug\Allure.SpecFlowPlugin.dll
+C:\Users\Millionaire\new repos\1\TRAutoTests\TRAutoTests\bin\Debug\CsvHelper.dll
+C:\Users\Millionaire\new repos\1\TRAutoTests\TRAutoTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Millionaire\new repos\1\TRAutoTests\TRAutoTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Millionaire\new repos\1\TRAutoTests\TRAutoTests\bin\Debug\MimeTypesMap.dll
+C:\Users\Millionaire\new repos\1\TRAutoTests\TRAutoTests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Millionaire\new repos\1\TRAutoTests\TRAutoTests\bin\Debug\nunit.framework.dll
+C:\Users\Millionaire\new repos\1\TRAutoTests\TRAutoTests\bin\Debug\RestSharp.dll
+C:\Users\Millionaire\new repos\1\TRAutoTests\TRAutoTests\bin\Debug\TechTalk.SpecFlow.dll
+C:\Users\Millionaire\new repos\1\TRAutoTests\TRAutoTests\bin\Debug\WebDriver.dll
+C:\Users\Millionaire\new repos\1\TRAutoTests\TRAutoTests\bin\Debug\WebDriver.Support.dll
+C:\Users\Millionaire\new repos\1\TRAutoTests\TRAutoTests\bin\Debug\CsvHelper.xml
+C:\Users\Millionaire\new repos\1\TRAutoTests\TRAutoTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Millionaire\new repos\1\TRAutoTests\TRAutoTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Millionaire\new repos\1\TRAutoTests\TRAutoTests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Millionaire\new repos\1\TRAutoTests\TRAutoTests\bin\Debug\nunit.framework.pdb
+C:\Users\Millionaire\new repos\1\TRAutoTests\TRAutoTests\bin\Debug\nunit.framework.xml
+C:\Users\Millionaire\new repos\1\TRAutoTests\TRAutoTests\bin\Debug\RestSharp.xml
+C:\Users\Millionaire\new repos\1\TRAutoTests\TRAutoTests\bin\Debug\WebDriver.xml
+C:\Users\Millionaire\new repos\1\TRAutoTests\TRAutoTests\bin\Debug\WebDriver.Support.xml
+C:\Users\Millionaire\new repos\1\TRAutoTests\TRAutoTests\obj\Debug\TRAutoTests.csprojAssemblyReference.cache
+C:\Users\Millionaire\new repos\1\TRAutoTests\TRAutoTests\obj\Debug\TRAutoTests.csproj.CopyComplete
+C:\Users\Millionaire\new repos\1\TRAutoTests\TRAutoTests\obj\Debug\TRAutoTests.dll
+C:\Users\Millionaire\new repos\1\TRAutoTests\TRAutoTests\obj\Debug\TRAutoTests.pdb

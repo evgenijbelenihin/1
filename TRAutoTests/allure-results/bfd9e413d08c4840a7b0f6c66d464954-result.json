@@ -1,0 +1,128 @@
+{
+  "uuid": "7f975a18948f4c50903b07dda73bd174",
+  "historyId": "Check that after the user has entered valid data, when we click on the \"restore password\" button, we see a message about sending a new password to the specified mail",
+  "fullName": "Check that after the user has entered valid data, when we click on the \"restore password\" button, we see a message about sending a new password to the specified mail",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "MILLIONAIRE-ПК"
+    },
+    {
+      "name": "feature",
+      "value": "Sign In"
+    },
+    {
+      "name": "tag",
+      "value": "CheckRestorePassword"
+    }
+  ],
+  "links": [],
+  "name": "Check that after the user has entered valid data, when we click on the \"restore password\" button, we see a message about sending a new password to the specified mail",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "Given  I open Sign In page",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1589024583954,
+      "stop": 1589024586504
+    },
+    {
+      "name": "And  I press forgot password button",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1589024586506,
+      "stop": 1589024586627
+    },
+    {
+      "name": "When  I fill email 'evgenijbelenihin.don@gmail.com' from table",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1589024586627,
+      "stop": 1589024586849
+    },
+    {
+      "name": "And  I fill phone number 0557817886 from table",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1589024586849,
+      "stop": 1589024586957
+    },
+    {
+      "name": "And  I press Restore password button",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1589024586957,
+      "stop": 1589024587031
+    },
+    {
+      "name": "Then  'Your password have been send!' is displayed",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1589024587031,
+      "stop": 1589024588555
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1589024583945,
+  "stop": 1589024588559
+}
