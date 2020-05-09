@@ -405,7 +405,7 @@ this.ScenarioInitialize(scenarioInfo);
 #line 105
  testRunner.Given("I open Sign In page", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Given ");
 #line 106
- testRunner.When("I fill in email field \'qweqwe@qwe.qwe\'", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "When ");
+ testRunner.When("I fill in email field \'evgenijbelenihin.don@gmail.com\'", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "When ");
 #line 107
  testRunner.And("I fill in password field \'qweqwe\'", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "And ");
 #line 108

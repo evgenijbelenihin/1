@@ -103,7 +103,7 @@ Scenario: Does symbols hidden in password field
 @DoesPossibleToSignInWithCorrectData
 Scenario: Does possible to sign in with registered data
 	Given I open Sign In page
-	When I fill in email field 'qweqwe@qwe.qwe'
+	When I fill in email field 'evgenijbelenihin.don@gmail.com'
 	And I fill in password field 'qweqwe'
 	And I press Sign In button
 	Then I successfully signed in
